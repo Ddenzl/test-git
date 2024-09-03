@@ -1,0 +1,10 @@
+PS D:\practice\test2\test-git> git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 484 bytes | 484.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To github.com:Ddenzl/test-git.git
+   6bc054b..ac78e8d  master -> master
